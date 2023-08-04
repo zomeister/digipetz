@@ -25,27 +25,27 @@ npm start --prefix client
 
 ## models
 
-### <Owner>
+### `<Owner>`
 - id:
 - name:
 
-### <Pet>
+### `<Pet>`
 - id:
 - name:
 - species:
 
-### <Adoption>
+### `<Adoption>`
 - id:
 - owner_id:
 - pet_id:
 
-### <Action>
+### `<Action>`
 -id:
 
-### <Menu>
+### `<Menu>`
 -id:
 
-### <MenuItem>
+### `<MenuItem>`
 -id:
 -menu_id:
 
