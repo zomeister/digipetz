@@ -19,3 +19,21 @@ Run frontend (React app on [`localhost:4000`](http://localhost:4000):
 ```sh
 npm start --prefix client
 ```
+
+## packages
+
+
+## models
+
+### <Owner>
+
+### <Pet>
+
+### <Adoption>
+
+### <Action>
+
+### <Menu>
+
+### <MenuItem>
+
