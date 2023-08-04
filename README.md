@@ -26,8 +26,19 @@ npm start --prefix client
 ## models
 
 ### `<Owner>`
+__Columns__
 - id:
 - name:
+- adoption_id:
+
+__Relationships__
+- adoptions:
+- pets:
+
+__Serialization__
+- ()
+
+__Validations__
 
 ### `<Pet>`
 - id:
