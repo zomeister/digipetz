@@ -40,12 +40,12 @@ npm start --prefix client
 - pet_id:
 
 ### `<Action>`
--id:
+- id:
 
 ### `<Menu>`
--id:
+- id:
 
 ### `<MenuItem>`
--id:
--menu_id:
+- id:
+- menu_id:
 
